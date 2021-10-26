@@ -11,7 +11,7 @@ script bmkg
 
 # how to install
 
-```bsh
+```ksh
 >> apt update
 >> apt full-upgrade
 >> apt install html2text
