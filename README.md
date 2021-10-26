@@ -14,6 +14,7 @@ script bmkg
 ```f#
 >> apt update
 ```
+```
 >> apt full-upgrade
 ```ruby
 >> apt install html2text
