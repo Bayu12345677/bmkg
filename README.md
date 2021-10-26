@@ -1,1 +1,3 @@
-# bmkg
+script bmkg
+
+# tampilan
