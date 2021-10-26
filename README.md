@@ -25,3 +25,7 @@ script bmkg
 >> cd bmkg
 >> bash bmkg.sh
 ```
+
+> bantu subscribe youtube saya
+
+=> [$YOUTUBE](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
