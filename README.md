@@ -12,15 +12,25 @@ script bmkg
 # how to install
 
 ```f#
+`
 >> apt update
+`
 >> apt full-upgrade
+`
 >> apt install html2text
+`
 >> apt install ruby
+`
 >> apt install git
+`
 >> gem install lolcat
+`
 >> gem install colorama
+`
 >> apt install pv
+`
 >> apt install whiptail
+`
 >> apt install setterm
 >> apt install gawk
 >> apt insyall curl lynx
