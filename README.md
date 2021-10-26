@@ -18,6 +18,7 @@ script bmkg
 >> gem install colorama
 >> apt install pv
 >> apt install whiptail
+>> apt install setterm
 >> apt install gawk
 >> apt insyall curl lynx
 >> git clone https://github.com/Bayu12345677/bmkg
