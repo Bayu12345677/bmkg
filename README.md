@@ -11,49 +11,21 @@ script bmkg
 
 # how to install
 
-```f#
+```c
 >> apt update
-```
-```
 >> apt full-upgrade
-```
-```ruby
 >> apt install html2text
-```
-```kotlin
 >> apt install ruby
-```
-```ksh
 >> apt install git
-```
-```perl
 >> gem install lolcat
-```
-```python
 >> gem install colorama
-```
-```c++
 >> apt install pv
-```
-```c#
 >> apt install whiptail
-```
-```nodejs
 >> apt install setterm
-```
-```perl
 >> apt install gawk
-```
-```dart
->> apt insyall curl lynx
-```
-```rust
+>> apt install curl
 >> git clone https://github.com/Bayu12345677/bmkg
-```
-```beanshell
 >> cd bmkg
-```
-```bash
 >> bash bmkg.sh
 ```
 > bantu subscribe youtube saya
