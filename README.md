@@ -9,5 +9,18 @@ script bmkg
 # how to install
 
 ```f#
->>
+>> apt update
+>> apt full-upgrade
+>> apt install html2text
+>> apt install ruby
+>> apt install git
+>> gem install lolcat
+>> gem install colorama
+>> apt install pv
+>> apt install whiptail
+>> apt install gawk
+>> apt insyall curl lynx
+>> git clone https://github.com/Bayu12345677/bmkg
+>> cd bmkg
+>> bash bmkg.sh
 ```
